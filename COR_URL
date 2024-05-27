@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeo Link</title>
+    <style>
+        /* Estilo para mudar a cor do texto */
+        .video-link {
+            color: blue; /* Cor azul */
+            text-decoration: none; /* Remove o sublinhado padrão */
+        }
+    </style>
+</head>
+<body>
+
+<a href="URL_DO_SEU_VÍDEO" class="video-link">Clique aqui para assistir ao vídeo</a>
+
+</body>
+</html>
